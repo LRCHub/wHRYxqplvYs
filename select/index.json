@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "キミの記憶【P3】",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2026-03-13T15:10:27.075001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミの記憶【P3】",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/01_キミの記憶【P3】_川村ゆみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミの記憶 【P3】",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/02_キミの記憶_【P3】_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミの記憶【P3】",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_キミの記憶【P3】_川村ゆみ.txt"
+    }
+  ]
+}
